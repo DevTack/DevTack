@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DevTack
-- 👀 I’m interested in learning HTML, CSS, JAVASCRIPT and PYTHON Languages to be a fron-end developer.
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT at the momemnt.
-- 💞️ I’m looking to collaborate on construction of a good and fabulous websites to small businnes or a big company.
-- 📫 How to reach me deodatotack@gmail.com or (55) 31 9 9154-3500.
+- 👋Olá! Eu sou o @DevTack
+- 👀 Estudo  HTML, CSS, JAVASCRIPT and PYTHON Languages para me tornar um desenvolvedor front-end.
+- 🌱 Atualmente estou aprendendo HTML, CSS and JAVASCRIPT at the momemnt.
+- 💞️ Quero contribuir na construção de bons e fabulosos sites para pequenos negócios ou para grandes companias.
+- 📫 Como me contratar deodatotack@gmail.com ou (55) 31 9 9154-3500.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: for fun - O Viajante.
 
