@@ -1,8 +1,7 @@
 - 👋Olá! Eu sou o @DevTack
 - 👀 Estudo  HTML, CSS, JAVASCRIPT and PYTHON Languages para me tornar um desenvolvedor front-end.
-- 🌱 Atualmente estou aprendendo HTML, CSS and JAVASCRIPT at the momemnt.
-- 💞️ Quero contribuir na construção de bons e fabulosos sites para pequenos negócios ou para grandes companias.
-- 📫 Como me contratar deodatotack@gmail.com ou (55) 31 9 9154-3500.
+- 🌱 Atualmente estou aprendendo HTML, CSS and JAVASCRIPT, PHP e SQL.
+- 💞️ Quero contribuir na construção de sites orgânicos e intuitivos para negócios locais, regionais, nacionais e internacionais.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: for fun - O Viajante.
 
