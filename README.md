@@ -1,6 +1,5 @@
 - 👋Olá! Eu sou o @DevTack
-- 👀 Estudo  HTML, CSS, JAVASCRIPT and PYTHON Languages para me tornar um desenvolvedor front-end.
-- 🌱 Atualmente estou aprendendo HTML, CSS and JAVASCRIPT, PHP e SQL.
+- 🌱 Desenvolvedor Front-End,HTML | CSS | JAVASCRIPT.
 - 💞️ Quero contribuir na construção de sites orgânicos e intuitivos para negócios locais, regionais, nacionais e internacionais.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: for fun - O Viajante.
